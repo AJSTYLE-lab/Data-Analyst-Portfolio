@@ -39,7 +39,7 @@ Employee turnover is costly and disruptive for organizations. Salifort Motors wa
 
 ## Results  
 - Identified **job role, salary, and tenure** as the most important predictors of attrition.  
-- Random Forest outperformed Logistic Regression, achieving **~88% accuracy and high recall** for predicting employee turnover.  
+- Random Forest outperformed Logistic Regression, achieving **~98% accuracy and high recall** for predicting employee turnover.  
 - Visual dashboards provided HR with **clear insights into high-risk departments**.  
 - Developed a data-driven framework that enables HR to take proactive steps in employee retention.  
 
