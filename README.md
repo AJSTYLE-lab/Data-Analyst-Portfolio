@@ -48,3 +48,11 @@ Taxi fares in New York vary significantly based on trip distance, time of day, a
 ✅ Identified key variables influencing fare amounts.  
 ✅ Developed and validated a predictive model to estimate fares in advance.  
 ✅ Presented results in a **clear executive summaries** for decision-makers.  
+
+---
+
+## 📑 Project Proposal  
+
+You can view the detailed project proposal here:  
+
+👉 [Project Proposal (PDF)](https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Module%20Project/Foundation%20of%20Data%20Science/Project-Proposal.pdf)
