@@ -56,3 +56,11 @@ Taxi fares in New York vary significantly based on trip distance, time of day, a
 You can view the detailed project proposal here:  
 
 👉 [Project Proposal (PDF)](https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Module%20Project/Foundation%20of%20Data%20Science/Project-Proposal.pdf)
+
+
+
+
+## 📑 Project Proposal  
+
+<iframe src="https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Module%20Project/Foundation%20of%20Data%20Science/Project-Proposal.pdf" width="100%" height="600px">
+</iframe>
