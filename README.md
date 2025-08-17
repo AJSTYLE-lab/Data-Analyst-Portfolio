@@ -56,15 +56,6 @@ Employee turnover is costly and disruptive for organizations. Salifort Motors wa
 
 ## 📑 **Project Reports, Deliverables, & Executive Summaries**
 
-📌 [📘 Project Proposal](https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Capstone/Project-Proposal.pdf)  
 
-📌 [📊 Initial Data Insights](https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Capstone/Initial-Data-Insights.pdf)  
-
-📌 [🔎 Exploratory Data Analysis](https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Capstone/EDA-Report.pdf)  
-
-📌 [📈 Statistical Analysis & Hypothesis Testing](https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Capstone/Statistical-Analysis.pdf)  
-
-📌 [🤖 Machine Learning Models – Logistic Regression & Random Forest](https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Capstone/ML-Models.pdf)  
-
-📌 [📑 Final Executive Summary](https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Capstone/Executive-Summary.pdf)  
+📌 [📑 Final Executive Summary](https://github.com/AJSTYLE-lab/Data-Analyst-Portfolio/blob/main/Capstone%20Project/FINAL-EXECUTIVE_SUMMARY.pdf)  
 
